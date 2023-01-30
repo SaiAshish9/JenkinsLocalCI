@@ -15,6 +15,8 @@ cat ~/.jenkins/secrets/initialAdminPassword
 7ecd1ac46826459b9f87a1d04a139c62
 ```
 
+<img width="1116" alt="Screenshot 2023-01-31 at 12 38 12 AM" src="https://user-images.githubusercontent.com/43849911/215571544-1388261e-d53e-42c6-96ee-bbcad92eac1a.png">
+
 
 <img width="950" alt="Screenshot 2023-01-31 at 12 35 41 AM" src="https://user-images.githubusercontent.com/43849911/215571013-5df45ce7-df3b-4460-92d7-0a369e373fbe.png">
 
@@ -47,3 +49,10 @@ http://saiashish9_jenkins/
 https://techdocs.akamai.com/eaa-gmbo/docs/config-sso-jenkins-use-http-headers
 
 <img width="1045" alt="Screenshot 2023-01-31 at 12 23 13 AM" src="https://user-images.githubusercontent.com/43849911/215568619-6fe085d9-2b44-45cd-b5c3-0c77b0bea142.png">
+
+<img width="769" alt="Screenshot 2023-01-31 at 12 40 52 AM" src="https://user-images.githubusercontent.com/43849911/215572035-f4652e82-9bed-40df-8cab-0004f8530101.png">
+
+<img width="1079" alt="Screenshot 2023-01-31 at 12 41 56 AM" src="https://user-images.githubusercontent.com/43849911/215572245-266ef872-9326-4b9b-835c-a5f6b7485a05.png">
+
+
+
