@@ -22,7 +22,10 @@ cat ~/.jenkins/secrets/initialAdminPassword
 <img width="960" alt="Screenshot 2023-01-30 at 7 00 45 PM" src="https://user-images.githubusercontent.com/43849911/215490993-4b8bfcfa-3df2-44c0-87d7-1a4c814496ed.png">
 
 <img width="939" alt="Screenshot 2023-01-30 at 7 01 37 PM" src="https://user-images.githubusercontent.com/43849911/215491181-7691877e-a399-4105-9530-41c188f61788.png">
+
+```
 Shirdisaibaba@9999
+```
 
 <img width="960" alt="Screenshot 2023-01-30 at 7 02 04 PM" src="https://user-images.githubusercontent.com/43849911/215491298-63a143e2-fd7f-4d6f-b3e0-d7082a5b6cf3.png">
 
