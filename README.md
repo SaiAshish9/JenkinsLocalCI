@@ -8,6 +8,8 @@ cat ~/.jenkins/secrets/initialAdminPassword
 ```
 <img width="941" alt="Screenshot 2023-01-30 at 6 50 01 PM" src="https://user-images.githubusercontent.com/43849911/215488814-677cc3ba-e12b-4f32-b1c4-6ad68023a39c.png">
 
+<img width="643" alt="Screenshot 2023-01-31 at 1 20 04 AM" src="https://user-images.githubusercontent.com/43849911/215580861-a2f2c53a-90d3-4a26-8513-32ca6567eae6.png">
+
 <img width="1011" alt="Screenshot 2023-01-31 at 12 36 10 AM" src="https://user-images.githubusercontent.com/43849911/215571102-1aafac86-6438-4039-b8bc-f18d0055e75f.png">
 
 ```
