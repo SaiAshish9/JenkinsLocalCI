@@ -17,3 +17,5 @@ cat ~/.jenkins/secrets/initialAdminPassword
 <img width="934" alt="Screenshot 2023-01-30 at 6 52 04 PM" src="https://user-images.githubusercontent.com/43849911/215489200-2339bfb4-4f76-4ca1-806c-cb5cf96ccca2.png">
 
 <img width="958" alt="Screenshot 2023-01-30 at 6 59 13 PM" src="https://user-images.githubusercontent.com/43849911/215490668-fe2aee16-e249-4b09-b1eb-b24d8cf3eade.png">
+
+<img width="960" alt="Screenshot 2023-01-30 at 7 00 45 PM" src="https://user-images.githubusercontent.com/43849911/215490993-4b8bfcfa-3df2-44c0-87d7-1a4c814496ed.png">
