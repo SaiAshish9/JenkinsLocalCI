@@ -33,6 +33,6 @@ http://saiashish9_jenkins/
 
 <img width="1785" alt="Screenshot 2023-01-30 at 7 03 14 PM" src="https://user-images.githubusercontent.com/43849911/215491563-3cf23ca2-3424-4d2b-95c9-5a08761f1b0f.png">
 
-
+https://techdocs.akamai.com/eaa-gmbo/docs/config-sso-jenkins-use-http-headers
 
 
