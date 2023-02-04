@@ -13,6 +13,8 @@ cat ~/.jenkins/secrets/initialAdminPassword
 
 <img width="1011" alt="Screenshot 2023-01-31 at 12 36 10 AM" src="https://user-images.githubusercontent.com/43849911/215571102-1aafac86-6438-4039-b8bc-f18d0055e75f.png">
 
+<img width="839" alt="Screenshot 2023-02-04 at 11 40 09 PM" src="https://user-images.githubusercontent.com/43849911/216782848-1364e583-1b9d-4179-90f3-043180174fc0.png">
+
 ```
 cat ~/.jenkins/secrets/initialAdminPassword
 7ecd1ac46826459b9f87a1d04a139c62
