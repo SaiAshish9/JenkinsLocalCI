@@ -1,9 +1,10 @@
 ```
 brew install jenkins-lts
 brew services list
+cd /usr/local/Cellar/jenkins-lts/2.375.2
+edit port at homebrew.mxcl.jenkins-lts.plist 
 brew services start jenkins-lts
 brew services restart jenkins-lts
-brew services start jenkins-lts httpPort 8085
 cat ~/.jenkins/secrets/initialAdminPassword
 ```
 <img width="941" alt="Screenshot 2023-01-30 at 6 50 01 PM" src="https://user-images.githubusercontent.com/43849911/215488814-677cc3ba-e12b-4f32-b1c4-6ad68023a39c.png">
