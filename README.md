@@ -68,3 +68,5 @@ https://techdocs.akamai.com/eaa-gmbo/docs/config-sso-jenkins-use-http-headers
 <img width="1495" alt="Screenshot 2023-01-31 at 12 48 03 AM" src="https://user-images.githubusercontent.com/43849911/215573508-4dc7f06c-0322-41bd-bf94-d67da77a8ebc.png">
 
 <img width="1460" alt="Screenshot 2023-01-31 at 12 52 44 AM" src="https://user-images.githubusercontent.com/43849911/215575199-5a932c70-fdfe-4c85-82cf-d7bc6c9ff062.png">
+
+<img width="1322" alt="Screenshot 2023-02-05 at 11 51 15 AM" src="https://user-images.githubusercontent.com/43849911/216804907-6e789add-0602-42de-93e6-6b423a75ad22.png">
